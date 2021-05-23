@@ -21,7 +21,7 @@ Our team utilized AGILE methods with user story boards, feature lists and weekly
 
 1. Install Ruby on Rails (Ruby version 2.6.3 and Rails version 6.1.0)
 
-2. Fork the repo and clone it:
+1. Fork the repo and clone it:
 
 ```bash
 git clone https://github.com/<username>/r5k.git
@@ -30,13 +30,13 @@ bundle install --without production
 yarn install --check-files
 ```
 
-3. Migrate the database
+1. Migrate the database
 
 ```bash
 rails db:migrate
 ```
 
-4. Run the server
+1. Run the server
 
 ```bash
 rails server
