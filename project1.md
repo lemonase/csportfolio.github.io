@@ -71,6 +71,6 @@ Fig 3. Feedback when an error occurs.
 This project was really good exposure to developer tools that I had less experience with like [Ruby on Rails](https://rubyonrails.org/)
 and [Heroku](https://www.heroku.com/)
 
-It is also worth noting we utilized AWS Cloud9, Linux and bash for development on this project.
+This project also gave practical hands-on experience with other developer tools like: AWS Cloud9, Linux, git and bash.
 
 [Back to Portfolio](./)
