@@ -1,30 +1,61 @@
 [Back to Portfolio](./)
 
-Project 1 Title
-===============
+# Rhino 5k Charity Race Website
 
--   **Class:** 
--   **Grade:**
--   **Language(s):**
--   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
-    (Please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) to request access.)
+- **Class: CSCI 334 (UI Programming)**
+- **Grade: B**
+- **Language(s): Ruby on Rails (Ruby, HTML, CSS, JavaScript, BootstrapCSS)**
+- **Source Code Repository:** [lemonase/r5k](https://github.com/lemonase/r5k)
+  (Please [email me](mailto:jmdixon1@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+The goal of this project was to plan, prototype, design and execute a charity race website using the principles and
+methods we learned throughout the semester.
 
-## How to compiles / run the program
+On the website, Runners and Team Leaders can sign-up, add other runners, and see information related to runners and the race itself.
 
-How to compile (if applicable) and run the project.
+Our team utilized AGILE methods with user story boards, feature lists and weekly meetings.
+
+## Running on your machine
+
+1. Install Ruby on Rails (Ruby version 2.6.3 and Rails version 6.1.0)
+
+2. Fork the repo and clone it:
 
 ```bash
-cd ./project
-python setup.py
+git clone https://github.com/<username>/r5k.git
+cd r5k
+bundle install --without production
+yarn install --check-files
+```
+
+3. Migrate the database
+
+```bash
+rails db:migrate
+```
+
+4. Run the server
+
+```bash
+rails server
 ```
 
 ## UI Design
 
-Lorem ipsum dolor sit amet (see Fig 1), consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat (see Fig 2). Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum (see Fig 3).
+In this course, we learned about the concrete and abstract elements of user interfaces
+that create either a good or bad user experience and how these can be measured.
+
+Our team focused on creating a responsive website that has all the information
+one would expect on a website for such an event.
+
+We started with a sketch and mocked up the design using MS Paint before implementing the design in code.
+
+Leveraging the popular [Bootstrap](https://getbootstrap.com/) CSS library for the frontend and the Ruby on Rails tutorial for the backend, we
+were able to get a minimum viable product by iterating on our initial design.
+
+The result: a functional website and a design that was more refined than our prototypes.
 
 ![screenshot](images/dummy_thumbnail.jpg)
 Fig 1. The launch screen
@@ -37,8 +68,9 @@ Fig 3. Feedback when an error occurs.
 
 ## 3. Additional Considerations
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+This project was really good exposure to developer tools that I had less experience with like [Ruby on Rails](https://rubyonrails.org/)
+and [Heroku](https://www.heroku.com/)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+It is also worth noting we utilized AWS Cloud9, Linux and bash for development on this project.
 
 [Back to Portfolio](./)

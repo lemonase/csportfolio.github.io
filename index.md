@@ -6,7 +6,7 @@
 
 ---
 
-### [Rhino 5K Website | CSCI 334](https://github.com/lemonase/r5k)
+### [Rhino 5K Website | CSCI 334](project1)
 
 ![rhino-5k-image](images/dummy_thumbnail.jpg)
 
