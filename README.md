@@ -1,5 +1,4 @@
-Senior Portfolio Template for CSCI 496
-======================================
+# Senior Portfolio Template for CSCI 496
 
 ## Introduction
 
@@ -16,7 +15,7 @@ Use this template to create your senior portfolio using GitHub Pages!
 
 [A Video Tutorial](https://youtu.be/ECtcGftiCBI)
 
-___
+---
 
 You can use the editor on GitHub to maintain and preview the content for your website in Markdown files.
 
@@ -30,7 +29,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 # Header 1
+
 ## Header 2
+
 ### Header 3
 
 - Bulleted
@@ -46,11 +47,11 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-___
+---
 
 ## References
 
-1.  *Developer Portfolio Landing Page Template* for GitHub Pages by [Ivanna Kacewica](https://github.com/evanca) https://github.com/evanca/quick-portfolio
+1.  _Developer Portfolio Landing Page Template_ for GitHub Pages by [Ivanna Kacewica](https://github.com/evanca) https://github.com/evanca/quick-portfolio
 2.  Jekyll theme "Minimal" for GitHub Pages: https://github.com/pages-themes/minimal (CC0 1.0 Universal License)
 3.  Dummy photo via: https://pixabay.com/photos/woman-business-fashion-young-3060784/ (Pixabay License)
 4.  Dummy thumbnail image created by rawpixel.com: https://www.freepik.com/free-vector/set-elements-infographic_2807573.htm (Standard Freepik License)

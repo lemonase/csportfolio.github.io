@@ -68,9 +68,7 @@ Fig 3. Feedback when an error occurs.
 
 ## 3. Additional Considerations
 
-This project was really good exposure to developer tools that I had less experience with like [Ruby on Rails](https://rubyonrails.org/)
-and [Heroku](https://www.heroku.com/)
-
-This project also gave practical hands-on experience with other developer tools like: AWS Cloud9, Linux, git and bash.
+This project was really good experience from a project management perspective as each member of the team had the opportunity to create goals(stories), due dates and contribute to the final product.
+It also provided exposure to developer tools such as [Ruby on Rails](https://rubyonrails.org/), [Heroku](https://www.heroku.com/), AWS Cloud9, Linux, git and bash.
 
 [Back to Portfolio](./)
