@@ -57,14 +57,23 @@ were able to get a minimum viable product by iterating on our initial design.
 
 The result: a functional website and a design that was more refined than our prototypes.
 
-![screenshot](images/dummy_thumbnail.jpg)
-Fig 1. The launch screen
+![screenshot](images/project1/home-page.png)
+Fig 1. The home page
 
-![screenshot](images/dummy_thumbnail.jpg)
-Fig 2. Example output after input is processed.
+![screenshot](images/project1/charity-page.png)
+Fig 2. Page containing charity information
 
-![screenshot](images/dummy_thumbnail.jpg)
-Fig 3. Feedback when an error occurs.
+![screenshot](images/project1/race-page.png)
+Fig 3. Page containing race information
+
+![screenshot](images/project1/account-page.png)
+Fig 4. The accounts page
+
+![screenshot](images/project1/users-page.png)
+Fig 5. The users page
+
+![screenshot](images/project1/teams-page.png)
+Fig 6. The teams page
 
 ## 3. Additional Considerations
 

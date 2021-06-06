@@ -8,7 +8,7 @@
 
 ### [Rhino 5K Website | CSCI 334](project1)
 
-![rhino-5k-image](images/dummy_thumbnail.jpg)
+![rhino-5k-image](images/project1/race-page.png)
 
 ---
 
