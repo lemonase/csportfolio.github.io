@@ -2,18 +2,18 @@
 # These are used to personalize your new site.
 title: James Dixon # your name here
 logo: "/images/me.png?raw=true" # your photo (or logo) here
-description: > # your text below (remove <br /> elements if you don't need line breaks)
+description:
+  > # your text below (remove <br /> elements if you don't need line breaks)
   CSCI 496: Senior Portfolio<br />
   Bachelors of Technology (Computer Technology)
-  Class of 2021
+  Class of 2022
   <br /><br />
   <a href="https://docs.google.com/document/d/1HOVwl5givy2ejFLdPjgB6E2O-zM9n8Gz9XopedaTVVw/edit?usp=sharing">View My Resume</a>
   <br /><br />
   <a href="https://www.linkedin.com/in/james-dixon-147431109/">View My LinkedIn Profile</a>
 repository: "lemonase/lemonase.github.io"
-github_username:  lemonase # update with your username
+github_username: lemonase # update with your username
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
 
 # Build setting
 theme: jekyll-theme-minimal
-
