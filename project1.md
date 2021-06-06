@@ -75,7 +75,7 @@ Fig 5. The users page
 ![screenshot](images/project1/teams-page.png)
 Fig 6. The teams page
 
-## 3. Additional Considerations
+## Additional Considerations
 
 This project was really good experience from a project management perspective as each member of the team had the opportunity to create goals(stories), due dates and contribute to the final product.
 It also provided exposure to developer tools such as [Ruby on Rails](https://rubyonrails.org/), [Heroku](https://www.heroku.com/), AWS Cloud9, Linux, git and bash.
