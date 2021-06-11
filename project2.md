@@ -15,20 +15,33 @@ data structures that many applications use under the hood.
 
 ## Running on your machine
 
-1. Clone the repository
-2. Compile and run the server
+### Cloning
+
+Clone this repository
+
+```sh
+git clone https://github.com/lemonase/SimpleUDPClient
+```
+
+### Server
+
+Compile and run the server
 
 ```sh
 g++ Server_task1.cpp -o Server_task1.out && ./Server_task1.out
 ```
 
-3. Open another terminal to compile/run the client
+Enter the desired port number
+
+### Client
+
+Open another terminal to compile/run the client
 
 ```sh
 g++ Client_task2.cpp -o Client_task2.out && ./Client_task2.out
 ```
 
-4. Enter the server's information (IP, port and filename to send)
+Enter the server's information (IP, port and filename to send)
 
 ## Lessons
 

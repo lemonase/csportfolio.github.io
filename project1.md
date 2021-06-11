@@ -19,9 +19,9 @@ Our team utilized AGILE methods with user story boards, feature lists and weekly
 
 ## Running on your machine
 
-1. Install Ruby on Rails (Ruby version 2.6.3 and Rails version 6.1.0)
+Install Ruby on Rails (Ruby version 2.6.3 and Rails version 6.1.0) [tutorial here](https://gorails.com/setup/ubuntu/20.04)
 
-1. Fork the repo and clone it:
+Fork the repo and clone it:
 
 ```bash
 git clone https://github.com/<username>/r5k.git
@@ -30,13 +30,13 @@ bundle install --without production
 yarn install --check-files
 ```
 
-1. Migrate the database
+Migrate the database
 
 ```bash
 rails db:migrate
 ```
 
-1. Run the server
+Run the server
 
 ```bash
 rails server
