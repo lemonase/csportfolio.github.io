@@ -6,13 +6,13 @@
 
 ---
 
-### [Rhino 5K Website | CSCI 334](project1)
+### [Rhino 5K Website | CSCI 334 (UI Programming)](project1)
 
 ![rhino-5k-image](images/project1/race-page.png)
 
 ---
 
-### [Simple UDP Client | CSCI 332](project2)
+### [Simple UDP Client | CSCI 332 (Applied Networking)](project2)
 
 ![Project 2 Thumbnail Name](images/project2/screenshot.png)
 
@@ -24,15 +24,6 @@
 
 - **Class: CSCI 235**
 - **Grade: B+**
-
----
-
-## Presentations
-
-### [Presentation 1 Title](/pdf/sample_presentation.pdf)
-
-- **Class:**
-- **Grade:**
 
 ---
 
