@@ -78,7 +78,7 @@ Fig 6. The teams page
 ## Additional Considerations
 
 This project was really good experience from a project management perspective.
-Each member of the team had the opportunity to create and track goals based on user stories
+Each member of the team had the opportunity to create and track goals based on user stories.
 Our team utilized user feedback and worked together to prioritize features that would shape the final product.
 
 It also provided exposure to developer tools such as [Ruby on Rails](https://rubyonrails.org/),
