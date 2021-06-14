@@ -20,7 +20,7 @@
 
 ## Ethics Papers
 
-### [Ethics In Computing](https://drive.google.com/file/d/1KSX0cVkPLcjxjjJ5Z82oHBC1z7FOZY66/view?usp=sharing)
+### [Ethics In Computing](/pdf/CSU_Ethics_Paper.pdf)
 
 - **Class: CSCI 235**
 - **Grade: B+**
