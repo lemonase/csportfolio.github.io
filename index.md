@@ -2,7 +2,7 @@
 
 ## Programming Projects
 
-\*For access to my private project repositories, please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) with the subject line, GitHub Access.
+\*For access to my private project repositories, please [email me](mailto:jmdixon1@csustudent.net?subject=GitHub%20Access) with the subject line, GitHub Access.
 
 ---
 
